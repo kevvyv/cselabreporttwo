@@ -4,10 +4,11 @@ CSE 15L Lab 2
 
 > Part 1
 
+![image](https://user-images.githubusercontent.com/122575342/215654697-5080924c-2129-443b-a1c5-5eb69f313585.png)
 
-
-
-
+When `/add-message?s` is called, the HandleString method is called. The relevant argument to this method is that a url must be passed in and the method will look for
+the sequence of `/add-message?s` within the URL and if it is detected, the InputString variable is updated to also include the string that is provided after the
+`/add-message?s` and the method will finally print a message contatining all the strings in InputString
 
 
 
