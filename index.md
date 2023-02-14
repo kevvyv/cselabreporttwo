@@ -12,9 +12,6 @@ the sequence of `/add-message?s` within the URL and if it is detected, the Input
 
 
 >adding messages to server:
->
-
-
 
 ![image](https://user-images.githubusercontent.com/122575342/218637101-ceb534e4-1b6e-4998-9d24-9defc803f6c5.png)
 ![image](https://user-images.githubusercontent.com/122575342/218637172-d1c6392b-4769-4a0b-9c45-5eb75bdb7255.png)
