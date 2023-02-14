@@ -4,7 +4,7 @@ CSE 15L Lab 2
 
 > Part 1
 
-![image](https://user-images.githubusercontent.com/122575342/215654697-5080924c-2129-443b-a1c5-5eb69f313585.png)
+![image](https://user-images.githubusercontent.com/122575342/218636440-e727b1f5-e9e8-4f80-903e-ccc01b44e862.png)
 
 When `/add-message?s` is called, the HandleString method is called. The relevant argument to this method is that a url must be passed in and the method will look for
 the sequence of `/add-message?s` within the URL and if it is detected, the InputString variable is updated to also include the string that is provided after the
@@ -25,7 +25,7 @@ assertArrayEquals(new int[]{5,4,3,2,1}, ArrayExamples.reversed(input1)}
 
 The code that runs without failure is:
 ```
-public void testReverse2() {
+public void testReverse3() {
 int input2 = {1,8,9}
 assertArrayEquals(new int[]{9,8,1} ArrayExamples.reversed(input2)}
 ```
